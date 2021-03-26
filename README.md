@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 👨🏻‍💻
 
 <!--
 **mxhs/mxhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Languages & technologies --
+<img width="32" alt="HTML5 Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/32px-HTML5_Badge.svg.png">
