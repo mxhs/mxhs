@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Languages & technologies --
-<img width="32" alt="HTML5 Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/32px-HTML5_Badge.svg.png">
+<img width="36" alt="HTML5 Badge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/32px-HTML5_Badge.svg.png">
