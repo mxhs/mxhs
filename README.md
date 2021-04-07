@@ -1,7 +1,7 @@
 ### Hello, I'm Maxwell 👋 👨🏻‍💻
 
 - 📍 Based in Los Angeles, CA
-- 📫  Reach me on <a href="https://www.linkedin.com/in/maxwellstofman/"> LinkedIn</a>!
+- 📫   Reach me on <a href="https://www.linkedin.com/in/maxwellstofman/"> LinkedIn</a>!
 <!--
 **mxhs/mxhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
